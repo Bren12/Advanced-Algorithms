@@ -1,0 +1,9 @@
+A00829855 - Brenda Elena Saucedo González
+	Parte 1 del programa (búsqueda de subsecuencias)
+	Parte 2 del programa (palíndromos)
+	Reporte
+
+A00831991 - Eunice Santos Galindo
+	Parte 2 del programa (palíndromos)
+	Parte 3 del programa (substring común más largo)
+	Reporte
