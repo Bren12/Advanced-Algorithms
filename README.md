@@ -5,8 +5,6 @@ Source code developed for the projects of the TC2038 course.
 Course: TC2038 (Object-Oriented Programming)
 <br>
 Semester: Aug-Dec 2022
-<br>
-Group: 603
 
 ## Files Description
 
