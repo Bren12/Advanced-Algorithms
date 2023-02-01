@@ -3,7 +3,7 @@
 Source code developed for the projects of the TC2038 course.
 
 **Course:** TC2038 (Analysis and Design of Advanced Algorithms) <br>
-**Semester:** Aug-Dec 2022 <br>
+**Semester:** AD22 <br>
 
 **Developed by:**
 * Edgar Castillo
