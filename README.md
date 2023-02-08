@@ -1,4 +1,4 @@
-# Learning of Advanced Algorithms
+# Learning of Advanced Algorithms 🌐
 
 Source code developed for the projects of the TC2038 course.
 
@@ -14,8 +14,10 @@ Source code developed for the projects of the TC2038 course.
 
 ### 📁 ActInt1
 
-Folder that contains the source code that was used and developed for the project that involves string handling.
+Folder containing the source code that was used and developed to model and identify compromised data 
+streams, which involves string handling.
 
 ### 📁 ActInt2
 
-Folder that contains the source code that was used and developed for the project that consists of graph management.
+Folder containing the source code that was used and developed to meet the high demand for Internet 
+Service Providers (ISPs), which consists of graph management.
