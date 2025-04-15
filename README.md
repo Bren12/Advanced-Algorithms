@@ -3,6 +3,7 @@
 Source code developed for the projects of the TC2038 course.
 
 **Course:** TC2038 (Analysis and Design of Advanced Algorithms) <br>
+**Language:** C++ <br>
 **Semester:** AD22 <br>
 
 **Developed by:**
